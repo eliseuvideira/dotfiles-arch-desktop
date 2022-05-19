@@ -15,5 +15,5 @@ vim:
 
 .PHONY: zsh
 zsh:
-	stow --no-folding -t zsh
+	stow --no-folding -t ~ zsh
 
